@@ -154,7 +154,7 @@ include('../functions/common_function.php');
         <!-- <?php include("../includes/footer.php");
      ?> -->
 
-<div class="bg-dark text-light text-center p-3">
+<div class="bg-dark text-light text-center p-3 ">
       <p><b>All right reserved, &copy; eKaRT</p></b>
     </div>
 
