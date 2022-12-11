@@ -1,6 +1,6 @@
 # Ecommerce_Project
 Ecommerce_Project
-I have made this Ecommerce Website using php, MySQL, Bootstrap,HTML,CSS,and JavaScript.
+I have made this Ecommerce Website using php, MySQL, Bootstrap,HTML,CSS,and little bit JavaScript.
 In this ecommerce website User can 
 1.Create Account 
 2.Update Account
